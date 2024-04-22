@@ -1,8 +1,8 @@
 # Awesome-DA-CLIP
 
 1. Measuring CLIP capability
-   1. **C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion. ICLR, 2024.** 
-   3. **DSG:Davidsonian scene graph: Improving reliability in fine-grained evaluation for textimage generation. ICLR, 2024.**
+   1. C-TPT: Calibrated Test-Time Prompt Tuning for Vision-Language Models via Text Feature Dispersion. ICLR, 2024.
+   3. DSG:Davidsonian scene graph: Improving reliability in fine-grained evaluation for textimage generation. ICLR, 2024.
    4. Decomposed CLIPScore: Improving Text-to-Image Consistency via Automatic Prompt Optimization. Meta, 2024.
 2. CLIP Finetuning
    1. Fine-tuned CLIP Models are Efficient Video Learners. CVPR, 2023. 55.
